@@ -6,11 +6,11 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.20.2",
     "bookshelf": "^0.12.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "knex": "^0.20.15",
     "morgan": "~1.9.0",
     "mysql2": "^3.9.4",
